@@ -161,6 +161,10 @@ body header .h_nav .h_ul li a:hover:before {
   width: 80px;
 }
 
+body header .h_nav_sp {
+  display: none;
+}
+
 body header .h_img {
   position: relative;
   width: 98%;
@@ -188,6 +192,158 @@ body header .h_img .page_title h2:before {
   background-color: #fef856;
 }
 
+@media screen and (max-width: 767px) {
+  body header .h_top {
+    display: block;
+  }
+  body header .h_top .title {
+    margin: 0 auto;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding-top: 10px;
+  }
+  body header .h_top .title h1 {
+    margin: 0;
+  }
+  body header .h_top .lang {
+    text-align: center;
+  }
+  body header .h_top .lang p {
+    margin-top: .7rem;
+    margin-right: 0;
+  }
+  body header .h_nav {
+    display: none;
+  }
+  body header .h_nav_sp {
+    display: block;
+  }
+  body header .h_nav_sp .hamburger {
+    display: block;
+    position: fixed;
+    z-index: 3;
+    right: 13px;
+    top: 12px;
+    width: 42px;
+    height: 42px;
+    cursor: pointer;
+    text-align: center;
+  }
+  body header .h_nav_sp .hamburger span {
+    display: block;
+    position: absolute;
+    width: 30px;
+    height: 2px;
+    left: 6px;
+    background: #2e39a9;
+    -webkit-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+  }
+  body header .h_nav_sp .hamburger span:nth-child(1) {
+    top: 10px;
+  }
+  body header .h_nav_sp .hamburger span:nth-child(2) {
+    top: 20px;
+  }
+  body header .h_nav_sp .hamburger span:nth-child(3) {
+    top: 30px;
+  }
+  body header .h_nav_sp .h_active span {
+    background: #fef856;
+  }
+  body header .h_nav_sp .h_active span:nth-child(1) {
+    top: 16px;
+    left: 6px;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+  }
+  body header .h_nav_sp .h_active span:nth-child(2), body header .h_nav_sp .h_active span:nth-child(3) {
+    top: 16px;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  body header .h_nav_sp .globalMenuSp {
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    color: #000;
+    background: transparent;
+    text-align: center;
+    -webkit-transform: translateY(-100%);
+            transform: translateY(-100%);
+    -webkit-transition: all 0.6s;
+    transition: all 0.6s;
+    width: 100%;
+  }
+  body header .h_nav_sp .globalMenuSp ul {
+    background: rgba(46, 57, 169, 0.85);
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: 70vh;
+  }
+  body header .h_nav_sp .globalMenuSp ul li {
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+  }
+  body header .h_nav_sp .globalMenuSp ul li:first-child {
+    padding-top: 7vh;
+  }
+  body header .h_nav_sp .globalMenuSp ul li:last-child {
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+  body header .h_nav_sp .globalMenuSp ul li a {
+    display: block;
+    font-size: 18px;
+    font-size: 1.8rem;
+    color: #fef856;
+    padding: 1em 0;
+    text-decoration: none;
+  }
+  body header .h_nav_sp .m_active {
+    -webkit-transform: translateY(0%);
+            transform: translateY(0%);
+  }
+  body header .h_img {
+    height: 50vh;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+  }
+  body header .h_img img {
+    width: auto;
+    height: auto;
+    min-width: inherit;
+    min-height: 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+  }
+}
+
+@media screen and (max-width: 589px) {
+  body header .h_top {
+    margin-bottom: -200px;
+  }
+  body header .h_top .title {
+    padding-top: 60px;
+  }
+  body header .h_top .title h1 {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+  body header .h_img .page_title h2 {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+}
+
 body main article .message h2 {
   padding: .5rem;
   -webkit-margin-before: 2.2em;
@@ -212,6 +368,12 @@ body main article .message p span {
   font-size: 10px;
   font-size: 1rem;
   line-height: 2em;
+}
+
+@media screen and (max-width: 589px) {
+  body main article .message .message {
+    margin: 0 7px;
+  }
 }
 
 body main article .home_news, body main article .home_schedule {
@@ -274,6 +436,15 @@ body main article .home_news .h_n_area .h_n_ul li a:before, body main article .h
 body main article .home_news .h_n_area .h_n_ul li a:hover:before, body main article .home_schedule .h_n_area .h_n_ul li a:hover:before {
   -webkit-transform: scaleX(1);
           transform: scaleX(1);
+}
+
+@media screen and (max-width: 589px) {
+  body main article .home_news .h_n_area .h_n_ul, body main article .home_schedule .h_n_area .h_n_ul {
+    margin: 2.6em 7px;
+  }
+  body main article .home_news .h_n_area .h_n_ul li span, body main article .home_schedule .h_n_area .h_n_ul li span {
+    display: block;
+  }
 }
 
 body main article .home_schedule {
@@ -353,6 +524,12 @@ body main article .research_now .r_area .r_ul li .h3_title h3, body main article
   padding-top: 11px;
 }
 
+@media screen and (max-width: 767px) {
+  body main article .research_now .r_area .r_ul li .h3_title h3, body main article .research_now .r_area .p_ul li .h3_title h3, body main article .research_now .p_area .r_ul li .h3_title h3, body main article .research_now .p_area .p_ul li .h3_title h3, body main article .research_arc .r_area .r_ul li .h3_title h3, body main article .research_arc .r_area .p_ul li .h3_title h3, body main article .research_arc .p_area .r_ul li .h3_title h3, body main article .research_arc .p_area .p_ul li .h3_title h3, body main article .publication .r_area .r_ul li .h3_title h3, body main article .publication .r_area .p_ul li .h3_title h3, body main article .publication .p_area .r_ul li .h3_title h3, body main article .publication .p_area .p_ul li .h3_title h3, body main article .profile .r_area .r_ul li .h3_title h3, body main article .profile .r_area .p_ul li .h3_title h3, body main article .profile .p_area .r_ul li .h3_title h3, body main article .profile .p_area .p_ul li .h3_title h3 {
+    padding-top: 5px;
+  }
+}
+
 body main article .research_now .r_area .r_ul li .h3_title .modi_f_pu, body main article .research_now .r_area .p_ul li .h3_title .modi_f_pu, body main article .research_now .p_area .r_ul li .h3_title .modi_f_pu, body main article .research_now .p_area .p_ul li .h3_title .modi_f_pu, body main article .research_arc .r_area .r_ul li .h3_title .modi_f_pu, body main article .research_arc .r_area .p_ul li .h3_title .modi_f_pu, body main article .research_arc .p_area .r_ul li .h3_title .modi_f_pu, body main article .research_arc .p_area .p_ul li .h3_title .modi_f_pu, body main article .publication .r_area .r_ul li .h3_title .modi_f_pu, body main article .publication .r_area .p_ul li .h3_title .modi_f_pu, body main article .publication .p_area .r_ul li .h3_title .modi_f_pu, body main article .publication .p_area .p_ul li .h3_title .modi_f_pu, body main article .profile .r_area .r_ul li .h3_title .modi_f_pu, body main article .profile .r_area .p_ul li .h3_title .modi_f_pu, body main article .profile .p_area .r_ul li .h3_title .modi_f_pu, body main article .profile .p_area .p_ul li .h3_title .modi_f_pu {
   padding-top: 7px;
   padding-bottom: 4px;
@@ -385,6 +562,13 @@ body main article .research_now .r_area .r_ul li .h3_title p, body main article 
 
 body main article .research_now .r_area .r_ul li .h3_title p span, body main article .research_now .r_area .p_ul li .h3_title p span, body main article .research_now .p_area .r_ul li .h3_title p span, body main article .research_now .p_area .p_ul li .h3_title p span, body main article .research_arc .r_area .r_ul li .h3_title p span, body main article .research_arc .r_area .p_ul li .h3_title p span, body main article .research_arc .p_area .r_ul li .h3_title p span, body main article .research_arc .p_area .p_ul li .h3_title p span, body main article .publication .r_area .r_ul li .h3_title p span, body main article .publication .r_area .p_ul li .h3_title p span, body main article .publication .p_area .r_ul li .h3_title p span, body main article .publication .p_area .p_ul li .h3_title p span, body main article .profile .r_area .r_ul li .h3_title p span, body main article .profile .r_area .p_ul li .h3_title p span, body main article .profile .p_area .r_ul li .h3_title p span, body main article .profile .p_area .p_ul li .h3_title p span {
   margin-left: 35px;
+}
+
+@media screen and (max-width: 767px) {
+  body main article .research_now .r_area .r_ul li .h3_title p, body main article .research_now .r_area .p_ul li .h3_title p, body main article .research_now .p_area .r_ul li .h3_title p, body main article .research_now .p_area .p_ul li .h3_title p, body main article .research_arc .r_area .r_ul li .h3_title p, body main article .research_arc .r_area .p_ul li .h3_title p, body main article .research_arc .p_area .r_ul li .h3_title p, body main article .research_arc .p_area .p_ul li .h3_title p, body main article .publication .r_area .r_ul li .h3_title p, body main article .publication .r_area .p_ul li .h3_title p, body main article .publication .p_area .r_ul li .h3_title p, body main article .publication .p_area .p_ul li .h3_title p, body main article .profile .r_area .r_ul li .h3_title p, body main article .profile .r_area .p_ul li .h3_title p, body main article .profile .p_area .r_ul li .h3_title p, body main article .profile .p_area .p_ul li .h3_title p {
+    font-size: 18px;
+    font-size: 1.8rem;
+  }
 }
 
 body main article .research_now .r_area .r_ul li p, body main article .research_now .r_area .p_ul li p, body main article .research_now .p_area .r_ul li p, body main article .research_now .p_area .p_ul li p, body main article .research_arc .r_area .r_ul li p, body main article .research_arc .r_area .p_ul li p, body main article .research_arc .p_area .r_ul li p, body main article .research_arc .p_area .p_ul li p, body main article .publication .r_area .r_ul li p, body main article .publication .r_area .p_ul li p, body main article .publication .p_area .r_ul li p, body main article .publication .p_area .p_ul li p, body main article .profile .r_area .r_ul li p, body main article .profile .r_area .p_ul li p, body main article .profile .p_area .r_ul li p, body main article .profile .p_area .p_ul li p {
@@ -458,6 +642,30 @@ body main article .research_now .r_area .r_ul .pro_li .pro_name, body main artic
   width: 50%;
 }
 
+@media screen and (max-width: 767px) {
+  body main article .research_now .r_area .r_ul .pro_li, body main article .research_now .r_area .p_ul .pro_li, body main article .research_now .p_area .r_ul .pro_li, body main article .research_now .p_area .p_ul .pro_li, body main article .research_arc .r_area .r_ul .pro_li, body main article .research_arc .r_area .p_ul .pro_li, body main article .research_arc .p_area .r_ul .pro_li, body main article .research_arc .p_area .p_ul .pro_li, body main article .publication .r_area .r_ul .pro_li, body main article .publication .r_area .p_ul .pro_li, body main article .publication .p_area .r_ul .pro_li, body main article .publication .p_area .p_ul .pro_li, body main article .profile .r_area .r_ul .pro_li, body main article .profile .r_area .p_ul .pro_li, body main article .profile .p_area .r_ul .pro_li, body main article .profile .p_area .p_ul .pro_li {
+    display: block;
+  }
+  body main article .research_now .r_area .r_ul .pro_li .pro_img, body main article .research_now .r_area .p_ul .pro_li .pro_img, body main article .research_now .p_area .r_ul .pro_li .pro_img, body main article .research_now .p_area .p_ul .pro_li .pro_img, body main article .research_arc .r_area .r_ul .pro_li .pro_img, body main article .research_arc .r_area .p_ul .pro_li .pro_img, body main article .research_arc .p_area .r_ul .pro_li .pro_img, body main article .research_arc .p_area .p_ul .pro_li .pro_img, body main article .publication .r_area .r_ul .pro_li .pro_img, body main article .publication .r_area .p_ul .pro_li .pro_img, body main article .publication .p_area .r_ul .pro_li .pro_img, body main article .publication .p_area .p_ul .pro_li .pro_img, body main article .profile .r_area .r_ul .pro_li .pro_img, body main article .profile .r_area .p_ul .pro_li .pro_img, body main article .profile .p_area .r_ul .pro_li .pro_img, body main article .profile .p_area .p_ul .pro_li .pro_img {
+    margin: 60px auto;
+    width: 80%;
+    max-width: 400px;
+    margin-bottom: 0px;
+  }
+  body main article .research_now .r_area .r_ul .pro_li .pro_img img, body main article .research_now .r_area .p_ul .pro_li .pro_img img, body main article .research_now .p_area .r_ul .pro_li .pro_img img, body main article .research_now .p_area .p_ul .pro_li .pro_img img, body main article .research_arc .r_area .r_ul .pro_li .pro_img img, body main article .research_arc .r_area .p_ul .pro_li .pro_img img, body main article .research_arc .p_area .r_ul .pro_li .pro_img img, body main article .research_arc .p_area .p_ul .pro_li .pro_img img, body main article .publication .r_area .r_ul .pro_li .pro_img img, body main article .publication .r_area .p_ul .pro_li .pro_img img, body main article .publication .p_area .r_ul .pro_li .pro_img img, body main article .publication .p_area .p_ul .pro_li .pro_img img, body main article .profile .r_area .r_ul .pro_li .pro_img img, body main article .profile .r_area .p_ul .pro_li .pro_img img, body main article .profile .p_area .r_ul .pro_li .pro_img img, body main article .profile .p_area .p_ul .pro_li .pro_img img {
+    max-width: inherit;
+  }
+  body main article .research_now .r_area .r_ul .pro_li .pro_name, body main article .research_now .r_area .p_ul .pro_li .pro_name, body main article .research_now .p_area .r_ul .pro_li .pro_name, body main article .research_now .p_area .p_ul .pro_li .pro_name, body main article .research_arc .r_area .r_ul .pro_li .pro_name, body main article .research_arc .r_area .p_ul .pro_li .pro_name, body main article .research_arc .p_area .r_ul .pro_li .pro_name, body main article .research_arc .p_area .p_ul .pro_li .pro_name, body main article .publication .r_area .r_ul .pro_li .pro_name, body main article .publication .r_area .p_ul .pro_li .pro_name, body main article .publication .p_area .r_ul .pro_li .pro_name, body main article .publication .p_area .p_ul .pro_li .pro_name, body main article .profile .r_area .r_ul .pro_li .pro_name, body main article .profile .r_area .p_ul .pro_li .pro_name, body main article .profile .p_area .r_ul .pro_li .pro_name, body main article .profile .p_area .p_ul .pro_li .pro_name {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  body main article .research_now .r_area, body main article .research_now .p_area, body main article .research_arc .r_area, body main article .research_arc .p_area, body main article .publication .r_area, body main article .publication .p_area, body main article .profile .r_area, body main article .profile .p_area {
+    width: 95%;
+  }
+}
+
 body footer .f_wrapper .links {
   display: -webkit-box;
   display: -webkit-flex;
@@ -471,8 +679,8 @@ body footer .f_wrapper .links {
 body footer .f_wrapper .links .contacts {
   width: 35%;
   height: 150px;
-  border-top: solid 1px #fdd35c;
-  border-bottom: solid 1px #fdd35c;
+  border-top: solid 1px #2e39a9;
+  border-bottom: solid 1px #2e39a9;
   background-color: #fffff8;
   margin: 4px 0;
   padding-top: 100px;
@@ -550,12 +758,65 @@ body footer .f_wrapper .links .sns:before {
   width: 65%;
 }
 
+body footer .f_wrapper .links .sns .contacts_sp {
+  display: none;
+}
+
 body footer .f_wrapper .copy p {
   font-size: 14px;
   font-size: 1.4rem;
   color: #2e39a9;
   text-align: center;
   margin: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  body footer .f_wrapper .links .contacts p {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+  body footer .f_wrapper .links .sns:before {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  body footer .f_wrapper .links {
+    display: block;
+  }
+  body footer .f_wrapper .links .contacts {
+    display: none;
+  }
+  body footer .f_wrapper .links .sns {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    padding-right: 0;
+  }
+  body footer .f_wrapper .links .sns .contacts_sp {
+    display: block;
+    margin: 60px 0;
+  }
+  body footer .f_wrapper .links .sns .contacts_sp p {
+    font-size: 16px;
+    font-size: 1.6rem;
+    padding-left: 10px;
+    color: #2e39a9;
+    margin: .2em 0;
+  }
+  body footer .f_wrapper .links .sns .contacts_sp p i {
+    padding-right: 5px;
+  }
+  body footer .f_wrapper .links .sns .contacts_sp p:first-child {
+    padding-top: 10px;
+  }
+  body footer .f_wrapper .links .sns .contacts_sp p:last-child {
+    padding-bottom: 10px;
+  }
+  body footer .f_wrapper .copy p {
+    font-size: 10px;
+    font-size: 1rem;
+  }
 }
 
 .section_t h2 {
@@ -568,6 +829,13 @@ body footer .f_wrapper .copy p {
   color: #2e39a9;
   text-align: center;
   vertical-align: middle;
+}
+
+@media screen and (max-width: 589px) {
+  .section_t h2 {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
 }
 
 .section_t h2 span {
