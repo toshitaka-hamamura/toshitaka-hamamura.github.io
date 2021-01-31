@@ -78,3 +78,15 @@ $(function () {
 		});
 	});
 });
+
+$(function () {
+	$('.hamburger').click(function () {
+		$(this).toggleClass('h_active');
+
+		if ($(this).hasClass('h_active')) {
+			$('.globalMenuSp').addClass('m_active');
+		} else {
+			$('.globalMenuSp').removeClass('m_active');
+		}
+	});
+});
