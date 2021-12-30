@@ -1,7 +1,6 @@
-This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020) (preloaded format=uplatex 2020.7.29)  17 SEP 2021 22:17
+This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020) (preloaded format=uplatex 2020.7.29)  29 DEC 2021 22:53
 entering extended mode
  restricted \write18 enabled.
- Source specials enabled.
  %&-line parsing enabled.
 **cv_en.tex
 (./cv_en.tex
@@ -65,79 +64,7 @@ Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcolonwd=\skip55
 \h@ngscolonwd=\skip56
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pagecolor/pagecolor.sty
-Package: pagecolor 2017/05/29 v1.0i Provides thepagecolor (HMM)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-
-Package pagecolor Warning: The pagecolor package must be loaded after either
-(pagecolor)                package color or after package xcolor (at your
-(pagecolor)                option). Neither package was loaded before package
-(pagecolor)                pagecolor. Loading of package xcolor will now be
-(pagecolor)                tried automatically.
-(pagecolor)                When the pagecolor package is used with option
-(pagecolor)                pagecolor using a colour requiring e. g. x11names
-(pagecolor)                option for xcolor package, this will not work!
-(pagecolor)                 on input line 80.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: dvips.def on input line 225.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
-)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty
-Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-Package pagecolor Info: \nopagecolor is undefined on input line 101.
-
-
-Package pagecolor Warning: Option nopagecolor=none requested but \nopagecolor u
-nknown:
-(pagecolor)                By option nopagecolor the "colour" to be used with\n
-opagecolor
-(pagecolor)                is set. The current value is "none" (maybe by defaul
-t),
-(pagecolor)                but command \nopagecolor is undefined.
-(pagecolor)                Therefore the colour cannot be "none".
-(pagecolor)                Please change the option accordingly!
-(pagecolor)                As first aid nopagecolor is now set to white
-(pagecolor)                 on input line 116.
-
-
-Package pagecolor Warning: Option pagecolor=none (maybe by default) used,
-(pagecolor)                but \nopagecolor is unknown.
-(pagecolor)                Please use anotheroption value;
-(pagecolor)                white 
-(pagecolor)                will be used now
-(pagecolor)                 on input line 127.
-
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2020-06-29 L3 backend support: dvips
 \l__pdf_internal_box=\box61
 \g__pdf_backend_object_int=\count177
@@ -150,24 +77,24 @@ File: l3backend-dvips.def 2020-06-29 L3 backend support: dvips
 (./cv_en.aux)
 \openout1 = `cv_en.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -204,106 +131,99 @@ LaTeX Font Info:    ... okay on input line 16.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 19.
+(Font)              scaled to size 16.62714pt on input line 18.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 19.
+(Font)              scaled to size 16.62714pt on input line 18.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 19.
+(Font)              scaled to size 11.54663pt on input line 18.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 19.
+(Font)              scaled to size 11.54663pt on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 19.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 19.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 19.
+(Font)              <6> on input line 18.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 21.
+(Font)              scaled to size 13.85594pt on input line 20.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 21.
+(Font)              scaled to size 13.85594pt on input line 20.
 LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <14.4> not available
-(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 21.
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 20.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 20.
+LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 20.
+LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <10> not available
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
 (Font)              Font shape `JT2/gt/m/n' tried instead on input line 21.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 21.
-LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <14.4> not available
+(Font)              scaled to size 9.6222pt on input line 21.
+LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <10> not available
 (Font)              Font shape `JY2/mc/bx/n' tried instead on input line 21.
-LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY2/gt/m/n' tried instead on input line 21.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 21.
-LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <10> not available
-(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 22.
-LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 22.
-LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 22.
-LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <10> not available
-(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 22.
-LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 22.
-LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 22.
+(Font)              scaled to size 9.6222pt on input line 21.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 42.
-
-Overfull \hbox (0.42986pt too wide) in paragraph at lines 44--45
-[][]\OT1/cmr/m/n/10 2016-2019: \OT1/cmr/bx/n/10 Doc-tor of Phi-los-o-phy in Ed-
-u-ca-tion (Clin-i-cal Psy-chol-ogy)\OT1/cmr/m/n/10 , Uni-ver-sity of Tokyo, Bun
-kyo,
- []
-
+(Font)              No change on input line 41.
 [1
 
 ]
 LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <12> not available
-(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 71.
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 72.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 71.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 72.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 71.
+(Font)              scaled to size 11.54663pt on input line 72.
 LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <12> not available
-(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 71.
+(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 72.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 71.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 72.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 71.
+(Font)              scaled to size 11.54663pt on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 73.
+(Font)              <7> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 73.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 83.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 84.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 85.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 91.
+(Font)              <5> on input line 74.
  [2]
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 92.
+(Font)              No change on input line 87.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 93.
+(Font)              No change on input line 88.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 94.
+(Font)              No change on input line 89.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 95.
+(Font)              No change on input line 100.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 96.
+(Font)              No change on input line 101.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 97.
+(Font)              No change on input line 102.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 98.
+(Font)              No change on input line 103.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 104.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 105.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 106.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 107.
  [3] [4] [5] (./cv_en.aux) ) 
 Here is how much of TeX's memory you used:
- 1924 strings out of 481188
- 27871 string characters out of 5917946
- 288420 words of memory out of 5000000
- 17934 multiletter control sequences out of 15000+600000
+ 1020 strings out of 481188
+ 15548 string characters out of 5917946
+ 269792 words of memory out of 5000000
+ 17061 multiletter control sequences out of 15000+600000
  540776 words of font info for 64 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 31i,6n,41p,551b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,6n,28p,551b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv_en.dvi (5 pages, 26396 bytes).
+Output written on cv_en.dvi (5 pages, 25512 bytes).
