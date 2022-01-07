@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020) (preloaded format=uplatex 2020.7.29)  29 DEC 2021 22:53
+This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020) (preloaded format=uplatex 2020.7.29)  3 JAN 2022 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -193,6 +193,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 74.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 74.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 75.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 76.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 77.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 78.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 79.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 80.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 81.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 82.
  [2]
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
 (Font)              No change on input line 87.
@@ -220,10 +238,10 @@ LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
 Here is how much of TeX's memory you used:
  1020 strings out of 481188
  15548 string characters out of 5917946
- 269792 words of memory out of 5000000
+ 268792 words of memory out of 5000000
  17061 multiletter control sequences out of 15000+600000
  540776 words of font info for 64 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  30i,6n,28p,551b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv_en.dvi (5 pages, 25512 bytes).
+Output written on cv_en.dvi (5 pages, 25540 bytes).
