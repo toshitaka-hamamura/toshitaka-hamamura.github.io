@@ -1,13 +1,15 @@
 # Log
 ## 2022
-### 7.6
+[9.3]
+did
+- changed the order of the header
 [8.20]
 did
 - updated the website: included LINKS
 - updated ResearchMap
 do
 - update my CV: add Katsutomi-san's presentation
-
+### 7.6
 did
 - updated the profile
 do
