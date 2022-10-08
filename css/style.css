@@ -626,7 +626,7 @@ body main article .research_now .r_area .r_ul .pro_li, body main article .resear
 }
 
 body main article .research_now .r_area .r_ul .pro_li .pro_img, body main article .research_now .r_area .p_ul .pro_li .pro_img, body main article .research_now .p_area .r_ul .pro_li .pro_img, body main article .research_now .p_area .p_ul .pro_li .pro_img, body main article .research_arc .r_area .r_ul .pro_li .pro_img, body main article .research_arc .r_area .p_ul .pro_li .pro_img, body main article .research_arc .p_area .r_ul .pro_li .pro_img, body main article .research_arc .p_area .p_ul .pro_li .pro_img, body main article .publication .r_area .r_ul .pro_li .pro_img, body main article .publication .r_area .p_ul .pro_li .pro_img, body main article .publication .p_area .r_ul .pro_li .pro_img, body main article .publication .p_area .p_ul .pro_li .pro_img, body main article .profile .r_area .r_ul .pro_li .pro_img, body main article .profile .r_area .p_ul .pro_li .pro_img, body main article .profile .p_area .r_ul .pro_li .pro_img, body main article .profile .p_area .p_ul .pro_li .pro_img {
-  width: 40%;
+  width: 30%;
   margin-top: 60px;
   margin-bottom: 50px;
 }
