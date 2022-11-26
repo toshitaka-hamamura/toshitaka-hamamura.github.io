@@ -1,5 +1,11 @@
 # Log
 ## 2022
+[11.19]
+did
+- upadted the website
+do
+- search for ways to create a webpate using rmarkdown
+
 [11.05]
 did
 - searched for ways to use Markdown for creating a website. It looks like I need to figure out how to convert the .md file to .html
