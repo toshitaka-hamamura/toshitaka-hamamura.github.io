@@ -1,5 +1,11 @@
 # Log
 ## 2022
+[11.26]
+did
+- updated the cv and website
+do
+- search for ways to create a webpate using rmarkdown
+
 [11.19]
 did
 - upadted the website
