@@ -1,38 +1,63 @@
-This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020) (preloaded format=uplatex 2020.7.29)  21 JAN 2023 11:26
+This is e-upTeX, Version 3.141592653-p3.9.0-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2021/W32TeX) (preloaded format=uplatex 2021.6.15)  4 FEB 2023 11:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv_jp.tex
 (./cv_jp.tex
-pLaTeX2e <2020-04-12u03> (based on LaTeX2e <2020-02-02> patch level 5)
-L3 programming layer <2020-03-06>
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+pLaTeX2e <2021-06-01u04>+1 (based on LaTeX2e <2021-06-01>)
+L3 programming layer <2021-06-01>
+(c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(c:/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 54.
+(Font)              scaled to size 10.53629pt on input line 54.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 54.
+(Font)              scaled to size 10.53629pt on input line 54.
 )
-\c@part=\count166
-\c@section=\count167
-\c@subsection=\count168
-\c@subsubsection=\count169
-\c@paragraph=\count170
-\c@subparagraph=\count171
-\c@figure=\count172
-\c@table=\count173
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen150
+\bibindent=\dimen154
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/newtxtext.sty
-Package: newtxtext 2020/07/22 v1.628
+(c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
-`newtxtext' v1.628, 2020/07/22 Text macros taking advantage of TeX-Gyre Termes 
-fonts (msharpe)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count189
+\Gm@cntv=\count190
+\c@Gm@tempcnt=\count191
+\Gm@bindingoffset=\dimen155
+\Gm@wd@mp=\dimen156
+\Gm@odd@mp=\dimen157
+\Gm@even@mp=\dimen158
+\Gm@layoutwidth=\dimen159
+\Gm@layoutheight=\dimen160
+\Gm@layouthoffset=\dimen161
+\Gm@layoutvoffset=\dimen162
+\Gm@dimlist=\toks18
+)
+(c:/texlive/2021/texmf-dist/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2021/05/24 v1.653
+
+`newtxtext' v1.653, 2021/05/24 Text macros taking advantage of TeX-Gyre Termes 
+fonts (msharpe) (c:/texlive/2021/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -45,63 +70,70 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-\ntx@fs=\dimen151
+\ntx@fs=\dimen163
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+(c:/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks16
-\XKV@tempa@toks=\toks17
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count174
+(c:/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count192
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count175
+(c:/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+(c:/texlive/2021/texmf-dist/tex/generic/xstring/xstring.sty
+(c:/texlive/2021/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count194
+\decimalpart=\count195
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
  112.
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
-File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
+(c:/texlive/2021/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 112.
+(Font)              scaled to size 10.95pt on input line 112.
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+(c:/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 78.
 )
-\ntxt@cntz=\count176
-LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 263.
+\ntxt@cntz=\count196
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 320.
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+(c:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
 Package: CJKutf8 2015/04/18 4.8.4
 
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks18
-\inpenc@posthook=\toks19
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+(c:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+)
+(c:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJK.sty
 Package: CJK 2015/04/18 4.8.4
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+(c:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
 Package: MULEenc 2015/04/18 4.8.4
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+(c:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJK.enc
 File: CJK.enc 2015/04/18 4.8.4
 Now handling font encoding C00 ...
 ... no UTF-8 mapping file for font encoding C00
@@ -169,24 +201,24 @@ Now handling font encoding C62 ...
 ... no UTF-8 mapping file for font encoding C62
 )
 LaTeX Info: Redefining \selectfont on input line 755.
-\CJK@indent=\box61
+\CJK@indent=\box67
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+(c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
-Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
+(c:/texlive/2021/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(c:/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
-(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+(c:/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(c:/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pagecolor/pagecolor.sty
+(c:/texlive/2021/texmf-dist/tex/latex/pagecolor/pagecolor.sty
 Package: pagecolor 2017/05/29 v1.0i Provides thepagecolor (HMM)
 
 
@@ -200,15 +232,15 @@ Package pagecolor Warning: The pagecolor package must be loaded after either
 (pagecolor)                option for xcolor package, this will not work!
 (pagecolor)                 on input line 80.
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+(c:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: dvips.def on input line 225.
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/dvips.def
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-def/dvips.def
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -220,7 +252,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
 Package pagecolor Info: \nopagecolor is undefined on input line 101.
@@ -246,181 +278,184 @@ Package pagecolor Warning: Option pagecolor=none (maybe by default) used,
 (pagecolor)                will be used now
 (pagecolor)                 on input line 127.
 
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+) (c:/texlive/2021/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-File: l3backend-dvips.def 2020-06-29 L3 backend support: dvips
-\l__pdf_internal_box=\box62
-\g__pdf_backend_object_int=\count177
-\l__pdf_backend_content_box=\box63
-\l__pdf_backend_model_box=\box64
-\g__pdf_backend_annotation_int=\count178
-\g__pdf_backend_link_int=\count179
-\g__pdf_backend_link_sf_int=\count180
+(c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2021-05-07 L3 backend support: dvips
+\l__pdf_internal_box=\box68
+\g__pdf_backend_object_int=\count197
+\l__pdf_backend_content_box=\box69
+\l__pdf_backend_model_box=\box70
+\g__pdf_backend_annotation_int=\count198
+\g__pdf_backend_link_int=\count199
+\g__pdf_backend_link_sf_int=\count266
 )
 (./cv_jp.aux)
 \openout1 = `cv_jp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
- (I search kanjifont definition file: . . )
-\c@mv@tabular=\count181
-\c@mv@boldtabular=\count182
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 13.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count267
+\c@mv@boldtabular=\count268
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 17.28pt on input line 14.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
 
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 16.
+(Font)              scaled to size 14.4pt on input line 17.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 16.
+(Font)              scaled to size 14.4pt on input line 17.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 22.
+(Font)              scaled to size 10.95pt on input line 23.
 [1
 
 ] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 82.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 82.
+(Font)              <10.95> on input line 82.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.95pt on input line 82.
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
-87.
- (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+82.
+ (c:/texlive/2021/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 87.
-
-[3]
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 106.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 106.
- [4]
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 107.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 108.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 109.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 110.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 111.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 112.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 113.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 114.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 115.
-
-Overfull \hbox (6.08954pt too wide) in paragraph at lines 115--116
-[]\T1/ntxtlf/m/n/10 Yokoyama, C., Ko-mazawa, A., Ya-hata, A., Miya-mae, M., Kan
-ie, A., []$[]$[],
- []
-
-[5] [6] [7] [8] [9] (./cv_jp.aux) ) 
+(Font)              scaled to size 10.95pt on input line 82.
+ [3] [4]
+[5] [6] [7] [8] (./cv_jp.aux) ) 
 Here is how much of TeX's memory you used:
- 3535 strings out of 481188
- 46697 string characters out of 5917946
- 306304 words of memory out of 5000000
- 19462 multiletter control sequences out of 15000+600000
- 557673 words of font info for 59 fonts, out of 8000000 for 9000
+ 4547 strings out of 478979
+ 62384 string characters out of 5865118
+ 403385 words of memory out of 5000000
+ 22649 multiletter control sequences out of 15000+600000
+ 429939 words of font info for 67 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 32i,6n,41p,816b,258s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,6n,66p,556b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv_jp.dvi (9 pages, 41432 bytes).
+Output written on cv_jp.dvi (8 pages, 40988 bytes).
