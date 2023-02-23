@@ -1,8 +1,8 @@
-PWD c:/Users/toshi/OneDrive/7_web_development/toshitaka-hamamura.github.io/cv_en
+PWD c:/Users/toshi/OneDrive/7_toshitaka-hamamura.github.io/cv_en
 INPUT c:/texlive/2021/texmf.cnf
 INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/toshi/OneDrive/7_web_development/toshitaka-hamamura.github.io/cv_en/cv_en.tex
+INPUT c:/Users/toshi/OneDrive/7_toshitaka-hamamura.github.io/cv_en/cv_en.tex
 OUTPUT cv_en.log
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls

@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p3.9.0-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2021/W32TeX) (preloaded format=uplatex 2021.6.15)  4 FEB 2023 11:07
+This is e-upTeX, Version 3.141592653-p3.9.0-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2021/W32TeX) (preloaded format=uplatex 2021.6.15)  23 FEB 2023 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -452,10 +452,10 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 Here is how much of TeX's memory you used:
  4547 strings out of 478979
  62384 string characters out of 5865118
- 403385 words of memory out of 5000000
+ 403394 words of memory out of 5000000
  22649 multiletter control sequences out of 15000+600000
  429939 words of font info for 67 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  57i,6n,66p,556b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv_jp.dvi (8 pages, 40988 bytes).
+Output written on cv_jp.dvi (8 pages, 40996 bytes).
