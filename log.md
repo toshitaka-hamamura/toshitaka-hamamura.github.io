@@ -1,9 +1,13 @@
 # Log
 ## 2023
 [6.3]
+memo
 - figuring out how to convert .md to .html
   - https://adamtheautomator.com/convert-markdown-to-html/#:~:text=First%2C%20open%20the%20Command%20Palette,current%20document%20to%20HTML%20command.&text=The%20image%20below%20shows%20how,after%20exporting%20the%20Markdown%20document.
-- 
+
+did
+- figured out how to convert a .md to .html
+- updated the blog
 ## 2022
 [11.26]
 did
