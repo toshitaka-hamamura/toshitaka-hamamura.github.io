@@ -1,9 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1688772132 "/Users/toshitakahamamura/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.tex" "/Users/toshitakahamamura/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.pdf" "cv_jp" 1688772132
-  "/Users/toshitakahamamura/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.aux" 1688772132 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/toshitakahamamura/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.tex" 1688772127 25777 ff5e274596ba1d87d7ee2b9cb8503cab ""
+["pdflatex"] 1698120311 "/Users/Flinders/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.tex" "/Users/Flinders/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.pdf" "cv_jp" 1698120311
+  "/Users/Flinders/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.aux" 1698120311 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/Flinders/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.tex" 1698120308 28139 2adde1bc212377528b6059475b02b27d ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
-  "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -15,9 +14,7 @@
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm" 1583272976 11308 56e1e609ccd0c3ac200f8ee8be321677 ""
-  "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm" 1583272976 11272 472c60efea5ca6c22ef3d6826d51f7f8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm" 1583272976 11332 a3f06baebd55810d71cf704858e94121 ""
-  "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xtt.tfm" 1136768653 1384 8943063000d26272532f74ca134dfecd ""
   "/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty" 1572645307 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty" 1572645307 480 5778104efadad304ced77548ca2184b1 ""
@@ -46,7 +43,6 @@
   "/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def" 1593552530 24606 ecae4e851ce9ce4554d156050e5057f9 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/newtxtext.sty" 1595539443 8938 f87f9a7230d74521cdbd63ed8380b575 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtlf.fd" 1430782350 1697 fff932dd00a7f82bda4dacfdf1c9646b ""
-  "/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtt.fd" 1336691118 1500 76616326ae68ec568910194063e7101c ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/pagecolor/pagecolor.sty" 1496704785 11374 a33b5198b1f2000a2dd83a02a7b9bc86 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty" 1592253773 4288 25631f9679adf750bac898538ededd61 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
@@ -57,9 +53,9 @@
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1595986198 2420510 3dfcc5909bd49b3dac078003ebdf1b93 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "cv_jp.aux" 0 -1 0 "pdflatex"
-  "cv_jp.tex" 1688772127 25777 ff5e274596ba1d87d7ee2b9cb8503cab ""
+  "cv_jp.tex" 1698120308 28139 2adde1bc212377528b6059475b02b27d ""
   (generated)
-  "/Users/toshitakahamamura/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.log"
   "cv_jp.aux"
+  "/Users/Flinders/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.log"
   "cv_jp.log"
-  "/Users/toshitakahamamura/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.pdf"
+  "/Users/Flinders/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_jp/cv_jp.pdf"
