@@ -62,6 +62,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /Users/toshitakahamamura/Library/CloudStorage/OneDrive-Personal/7_toshitaka-hamamura.github.io/cv_en/cv_en.aux

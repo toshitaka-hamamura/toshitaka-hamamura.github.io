@@ -2,7 +2,7 @@
 ## 2024/
 ## 2024/7
 ### did
-
+- updated ResearchMap and CV
 
 ## 2023
 [6.3]
